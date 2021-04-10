@@ -1,0 +1,6 @@
+com/java/pos/resource/PerfilResource.class
+com/java/pos/model/Perfil.class
+META-INF/panache-archive.marker
+com/java/pos/resteasyjackson/MyObjectMapperCustomizer.class
+com/java/pos/resteasyjackson/JacksonResource.class
+com/java/pos/resteasyjackson/JacksonResource$Quark.class
